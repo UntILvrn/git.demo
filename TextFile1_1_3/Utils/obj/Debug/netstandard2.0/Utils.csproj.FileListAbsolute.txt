@@ -1,0 +1,9 @@
+F:\TextFile1_1_3\Utils\bin\Debug\netstandard2.0\Utils.deps.json
+F:\TextFile1_1_3\Utils\bin\Debug\netstandard2.0\Utils.dll
+F:\TextFile1_1_3\Utils\bin\Debug\netstandard2.0\Utils.pdb
+F:\TextFile1_1_3\Utils\obj\Debug\netstandard2.0\Utils.csprojResolveAssemblyReference.cache
+F:\TextFile1_1_3\Utils\obj\Debug\netstandard2.0\Utils.csproj.CoreCompileInputs.cache
+F:\TextFile1_1_3\Utils\obj\Debug\netstandard2.0\Utils.AssemblyInfoInputs.cache
+F:\TextFile1_1_3\Utils\obj\Debug\netstandard2.0\Utils.AssemblyInfo.cs
+F:\TextFile1_1_3\Utils\obj\Debug\netstandard2.0\Utils.dll
+F:\TextFile1_1_3\Utils\obj\Debug\netstandard2.0\Utils.pdb

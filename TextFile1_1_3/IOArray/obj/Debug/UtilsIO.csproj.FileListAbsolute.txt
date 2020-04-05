@@ -1,0 +1,2 @@
+F:\TextFile1_1_3\IOArray\obj\Debug\UtilsIO.csprojResolveAssemblyReference.cache
+F:\TextFile1_1_3\IOArray\obj\Debug\UtilsIO.csproj.CoreCompileInputs.cache

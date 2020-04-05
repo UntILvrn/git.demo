@@ -1,0 +1,6 @@
+F:\TextFile1_1_3\FormsUtils\bin\Debug\FormsUtils.dll
+F:\TextFile1_1_3\FormsUtils\bin\Debug\FormsUtils.pdb
+F:\TextFile1_1_3\FormsUtils\obj\Debug\FormsUtils.csprojResolveAssemblyReference.cache
+F:\TextFile1_1_3\FormsUtils\obj\Debug\FormsUtils.csproj.CoreCompileInputs.cache
+F:\TextFile1_1_3\FormsUtils\obj\Debug\FormsUtils.dll
+F:\TextFile1_1_3\FormsUtils\obj\Debug\FormsUtils.pdb

@@ -1,0 +1,5 @@
+F:\TextFile1_1_3\ArrayIO\bin\Debug\ArrayIO.dll
+F:\TextFile1_1_3\ArrayIO\bin\Debug\ArrayIO.pdb
+F:\TextFile1_1_3\ArrayIO\obj\Debug\ArrayIO.csproj.CoreCompileInputs.cache
+F:\TextFile1_1_3\ArrayIO\obj\Debug\ArrayIO.dll
+F:\TextFile1_1_3\ArrayIO\obj\Debug\ArrayIO.pdb
